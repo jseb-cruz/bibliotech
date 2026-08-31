@@ -4,7 +4,6 @@ plugins {
     id("io.spring.dependency-management") version "1.1.7"
 }
 
-// change the group developer to your nickname
 group = "dev.sebastiancruz"
 version = "1.0-SNAPSHOT"
 
